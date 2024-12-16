@@ -1,0 +1,23 @@
+16:25:35.300 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grid-docker.xml
+
+16:25:35.446 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:25:35.446 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:25:35.570 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:25:39.151 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+16:25:39.198 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+16:25:39.310 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+16:25:39.354 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+16:26:00.774 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:26:00.796 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:26:03.241 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+16:26:05.060 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+16:26:53.435 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:27:20.616 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:28:35.927 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:29:54.276 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:29:56.648 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+16:29:56.783 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+16:29:57.341 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+16:29:57.343 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+16:29:58.717 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message

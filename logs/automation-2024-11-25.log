@@ -1,0 +1,62 @@
+12:57:08.766 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+12:57:08.941 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+12:57:51.534 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+13:00:51.563 [main] INFO  testCases.TC003_LoginDDT {36} - PROGRAM STRATED******************
+14:17:39.355 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:17:39.543 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:20:39.938 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:24:28.511 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:24:28.678 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:24:31.483 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:24:32.870 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:24:34.029 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+14:26:37.396 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:26:37.554 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:26:38.963 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:26:40.393 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:26:41.404 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+14:27:34.746 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:27:34.922 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:28:27.753 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:28:27.929 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:28:29.336 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:28:30.733 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:28:31.766 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+14:29:25.466 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:29:25.659 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:29:27.048 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:29:28.676 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:29:29.698 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+14:30:35.270 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:40:27.414 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\crossbrowsertesting.xml
+
+14:40:27.544 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:40:27.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:40:27.628 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:40:27.646 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:40:29.541 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:52:34.969 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+14:52:35.151 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:52:38.427 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:52:38.648 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+14:52:39.248 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+14:52:39.250 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+14:52:40.689 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+14:52:40.727 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****

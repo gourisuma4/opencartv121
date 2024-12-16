@@ -1,0 +1,48 @@
+16:29:58.759 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+16:29:59.859 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:30:02.145 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+16:30:07.269 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+16:30:08.886 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:30:20.639 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+18:23:03.179 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:03:28.602 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:03:29.049 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:04:58.345 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:05:02.747 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:05:02.871 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+14:05:03.878 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+14:05:03.878 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+14:05:05.818 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+14:05:05.866 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+14:05:07.214 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:05:09.814 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+14:05:11.420 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+15:29:58.076 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:30:01.199 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:30:01.366 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:30:02.429 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:30:02.429 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:30:07.146 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:30:07.192 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:30:08.509 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:30:11.000 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:30:12.759 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+15:58:39.198 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:58:42.185 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:58:42.343 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:58:42.938 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:58:42.938 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:58:44.227 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:58:44.262 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:58:45.462 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:58:48.031 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:58:49.651 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+14:22:45.778 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+14:22:49.316 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+14:22:49.491 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+14:22:50.071 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+14:22:50.071 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+14:22:51.682 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+14:22:51.733 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+14:22:53.033 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+14:22:55.882 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************

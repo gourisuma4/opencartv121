@@ -1,0 +1,56 @@
+16:09:47.086 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+16:09:48.347 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+16:09:48.373 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+16:09:48.551 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:09:51.208 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:45:29.559 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grouping.xml
+
+15:45:29.745 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:45:33.398 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:45:33.520 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:45:34.070 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:45:34.071 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:45:35.414 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:45:35.449 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:45:35.630 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:45:38.133 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:46:38.349 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grouping.xml
+
+15:46:38.524 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:46:41.745 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:46:41.840 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:46:42.362 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:46:42.364 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:46:43.655 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:46:43.686 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:46:43.847 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:46:46.526 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:55:39.965 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grouping.xml
+
+15:55:40.140 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:55:42.997 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:55:43.136 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:55:43.728 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:55:43.729 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:55:45.037 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:55:45.072 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:55:45.267 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:55:47.964 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+16:12:11.595 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grouping.xml
+
+16:12:11.776 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+16:12:14.878 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+16:12:15.042 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+16:12:15.586 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+16:12:15.587 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+16:12:16.978 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+16:12:17.013 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+16:12:17.200 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+16:12:20.187 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+16:23:30.932 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\test-output\testng-failed.xml
+
