@@ -1,0 +1,50 @@
+11:55:45.892 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:55:45.892 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:55:45.971 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:55:51.494 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:55:51.493 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:55:51.677 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:55:51.738 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:56:12.856 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+11:56:12.857 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+11:56:15.900 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+11:56:27.720 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+11:57:24.687 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\crossbrowsertesting.xml
+
+11:57:24.840 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:57:24.840 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:57:24.914 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:57:28.248 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:57:28.527 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:57:29.106 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+11:57:29.107 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+11:57:29.916 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:57:40.436 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:57:40.676 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+11:57:43.494 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+11:57:45.450 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+11:58:46.327 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:00:25.408 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:35:07.287 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grid-docker.xml
+
+12:35:07.640 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+12:35:07.640 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+12:35:07.640 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+12:35:13.506 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+12:35:13.685 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+12:35:14.433 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+12:35:14.437 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+12:35:16.339 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+12:35:16.408 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+12:35:16.507 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:35:20.611 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+12:35:22.941 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+12:37:01.296 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:37:01.297 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:48:52.588 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grid-docker.xml
+
+12:48:52.820 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+12:48:52.820 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************

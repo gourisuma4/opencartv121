@@ -1,0 +1,53 @@
+12:52:14.637 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+12:52:15.928 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+12:52:19.088 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+12:52:20.958 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+17:06:55.977 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+17:06:59.932 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+17:07:00.130 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+17:07:00.771 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+17:07:00.774 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+17:07:02.468 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+17:07:02.506 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+17:07:03.808 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+17:07:06.967 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+17:07:09.113 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+19:16:49.699 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+19:16:53.846 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+19:16:54.011 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+19:16:55.061 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+19:16:55.064 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+19:16:56.696 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+19:16:56.733 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+19:16:58.033 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+19:17:00.886 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+19:17:02.762 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+11:50:08.851 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+11:50:09.341 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:50:13.790 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:50:13.961 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:50:14.553 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+11:50:14.555 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+11:50:15.509 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+11:50:25.593 [main] ERROR testCases.TC001_AccountRegistrationPage {36} - Test failed...
+11:50:27.458 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+11:50:30.494 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+11:50:32.125 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+11:51:04.674 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\Master.xml
+
+11:51:04.871 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+11:51:09.062 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+11:51:09.217 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+11:51:09.795 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+11:51:09.796 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+11:51:11.219 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+11:51:11.272 [main] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+11:51:12.599 [main] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+11:51:15.469 [main] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+11:51:17.060 [main] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+11:55:45.731 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\crossbrowsertesting.xml
+

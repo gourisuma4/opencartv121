@@ -123,7 +123,8 @@ public class BaseClass
   
 	public String randomNumber()
      {
-    	 String generatednum=RandomStringUtils.randomNumeric(10);
+    	
+		String generatednum=RandomStringUtils.randomNumeric(10);
  		return generatednum;
      }
 	public String randomAlphaNumeric()

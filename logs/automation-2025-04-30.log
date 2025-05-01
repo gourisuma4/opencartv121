@@ -1,0 +1,47 @@
+15:54:13.863 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:54:14.141 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:54:14.247 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:54:37.231 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:54:37.258 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:54:40.576 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:54:40.578 [TestNG-tests-2] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:54:45.824 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:54:46.114 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:54:46.696 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:54:46.696 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:54:48.182 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Validating expected message
+15:54:48.249 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - ***finished TC001 AccountRegistartionPage ****
+15:54:52.907 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:54:59.215 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:55:00.849 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+15:56:29.294 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grid-docker.xml
+
+15:56:29.527 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:56:29.687 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:56:29.687 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:56:34.887 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:56:36.117 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:56:36.151 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:56:36.428 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:56:36.646 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:56:36.881 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:56:37.570 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:56:37.576 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:56:37.935 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:56:44.156 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:56:46.107 [TestNG-tests-1] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+15:56:47.957 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - PROGRAM STRATED******************
+15:56:51.539 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - *******Starting TC002_LoginTest************
+15:56:53.124 [TestNG-tests-3] INFO  testCases.TC002_LoginTest {36} - *******Finishing TC002_LoginTest************"
+15:58:50.821 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\Bujji\eclipse-workspace\opencartv121\grid-docker.xml
+
+15:58:51.043 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:58:51.171 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:58:51.171 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage {36} - PROGRAM STRATED******************
+15:58:54.857 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
+15:58:55.150 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on MyAccount Link
+15:58:55.821 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - Clicked on clickRegister Link
+15:58:55.823 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage {36} - providing customer details
+15:58:57.732 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage {36} - ********starting TC001 AccountRegistartionPage ********
